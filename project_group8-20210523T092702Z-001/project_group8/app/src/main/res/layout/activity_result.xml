@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="112dp">
+
+
+        <TextView
+            android:id="@+id/txtTittleResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="21dp"
+            android:layout_marginRight="21dp"
+            android:layout_marginBottom="533dp"
+            android:gravity="center_horizontal"
+            android:text="Kết Quả Cuối Cùng"
+            android:textAlignment="center"
+            android:textColor="#E91E63"
+            android:textSize="45dp"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="18dp"
+            tools:layout_editor_absoluteY="127dp" />
+
+        <TextView
+            android:id="@+id/tv_result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="150dp"
+            android:layout_marginRight="150dp"
+            android:layout_marginBottom="425dp"
+            android:text="00/00"
+            android:textSize="50dp"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="139dp"
+            tools:layout_editor_absoluteY="219dp" />
+
+        <Button
+            android:id="@+id/BtnBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="125dp"
+            android:layout_marginRight="125dp"
+            android:layout_marginBottom="325dp"
+            android:text="Trở về"
+            android:textSize="40dp"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="111dp"
+            tools:layout_editor_absoluteY="312dp" />
+
+        <TextView
+            android:id="@+id/txtLosse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginEnd="18dp"
+            android:layout_marginRight="18dp"
+            android:layout_marginBottom="145dp"
+            android:gravity="center_horizontal"
+            android:text="Tiếc ghê, bạn thua rồi"
+            android:textAlignment="center"
+            android:textColor="#B71C1C"
+            android:textSize="50dp"
+            android:visibility="invisible"
+            tools:visibility="invisible" />
+        <TextView
+            android:id="@+id/txtWinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginEnd="18dp"
+            android:layout_marginRight="18dp"
+            android:layout_marginBottom="145dp"
+            android:gravity="center_horizontal"
+            android:text="Chúc mừng bạn đã chiến thắng"
+            android:textAlignment="center"
+            android:textColor="#B71C1C"
+            android:textSize="50dp"
+            android:visibility="invisible"
+            tools:visibility="invisible" />
+
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

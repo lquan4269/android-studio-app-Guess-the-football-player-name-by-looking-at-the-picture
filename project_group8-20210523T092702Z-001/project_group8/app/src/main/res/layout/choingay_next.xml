@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    <Button
+        android:id="@+id/BtnTrungBinh"
+        android:layout_width="127dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/BtnDe"
+        android:text="Trung Bình"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+       />
+
+    <Button
+        android:id="@+id/BtnDe"
+        android:layout_width="127dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Dễ"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="260dp"
+        />
+
+    <Button
+        android:id="@+id/BtnKho"
+        android:layout_width="127dp"
+        android:layout_height="wrap_content"
+        android:text="Khó"
+        android:layout_below="@+id/BtnTrungBinh"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        />
+        <Button
+            android:id="@+id/BtnBack"
+            android:layout_width="128dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/BtnKho"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="12dp"
+            android:text="Trở về"
+            />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="263dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="-20dp"
+            android:src="@drawable/open_ball_brillant" />
+
+        <TextView
+            android:id="@+id/txtChooseLevel"
+            android:layout_width="match_parent"
+            android:layout_height="181dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginEnd="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="471dp"
+            android:gravity="center_horizontal"
+            android:text="Chọn mức độ bạn muốn thách đấu"
+            android:textColor="@color/teal_700"
+            android:textSize="50dp" />
+    </RelativeLayout>
+    </LinearLayout>

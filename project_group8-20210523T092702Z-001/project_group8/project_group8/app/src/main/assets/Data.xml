@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Questionare>
+    <Item>
+        <ID>1</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>KyLIAN MBAPPE</AnswerA>
+        <AnswerB>Tèo</AnswerB>
+        <AnswerC>Bi</AnswerC>
+        <AnswerD>robert chen</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Tèo</AnswerA>
+        <AnswerB>ronando</AnswerB>
+        <AnswerC>HARRY KANE</AnswerC>
+        <AnswerD>KyLIAN MBAPPE</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>RAHEEM STERLING</AnswerA>
+        <AnswerB>KyLIAN MBAPPE</AnswerB>
+        <AnswerC>Tèo</AnswerC>
+        <AnswerD>HARRY KANE</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>KyLIAN MBAPPE</AnswerA>
+        <AnswerB>JADON SANCHO</AnswerB>
+        <AnswerC>Tèo</AnswerC>
+        <AnswerD>MOHAMED SALAH</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>5</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>SADIO MANE</AnswerA>
+        <AnswerB>T AXEXANDER ARNOLD</AnswerB>
+        <AnswerC>MOHAMED SALAH</AnswerC>
+        <AnswerD>tèo</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>6</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Cristiana Girelli</AnswerA>
+        <AnswerB>SADIO MANE</AnswerB>
+        <AnswerC>Ewa Pajor</AnswerC>
+        <AnswerD>Amel Majri</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>MOHAMED SALAH</AnswerA>
+        <AnswerB>Tèo</AnswerB>
+        <AnswerC>Amel Majri</AnswerC>
+        <AnswerD>NEYMAR</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>8</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Mbock Bathy</AnswerA>
+        <AnswerB>MOHAMED SALAH</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <Question>Cầu thủ này là ai?.</Question>
+        <AnswerA>MARCUS RASHFORD</AnswerA>
+        <AnswerB>Paulo Dybala</AnswerB>
+        <AnswerC>Bruno Fernandes</AnswerC>
+        <AnswerD>Manuel Neuer</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>10</ID>
+        <Question>Cầu thủ này là ai?.</Question>
+        <AnswerA>Crystal Dunn</AnswerA>
+        <AnswerB>SADIO MANE</AnswerB>
+        <AnswerC>T AXEXANDER ARNOLD</AnswerC>
+        <AnswerD>KEVIN DE BRUYNE</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>11</ID>
+        <Question>Cầu thủ này là ai?.</Question>
+        <AnswerA>Neymar</AnswerA>
+        <AnswerB>Lionel Messi</AnswerB>
+        <AnswerC>Joshua Kimmich</AnswerC>
+        <AnswerD>T AXEXANDER ARNOLD</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>12</ID>
+        <Question>Cầu thủ này là ai?.</Question>
+        <AnswerA>Neymar</AnswerA>
+        <AnswerB>SADIO MANE</AnswerB>
+        <AnswerC>Joshua Kimmich</AnswerC>
+        <AnswerD>T AXEXANDER ARNOLD</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>13</ID>
+        <Question>Cầu thủ này là ai?.</Question>
+        <AnswerA>ARNOLD</AnswerA>
+        <AnswerB>Jennifer Hermoso</AnswerB>
+        <AnswerC>Asisat Oshoala</AnswerC>
+        <AnswerD>T AXEXANDER ARNOLD</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>14</ID>
+        <Question>Cầu thủ này là ai?.</Question>
+        <AnswerA>Marie-Antoinette Katoto</AnswerA>
+        <AnswerB>Paulo Dybala</AnswerB>
+        <AnswerC>Bruno Fernandes</AnswerC>
+        <AnswerD>Manuel Neuer</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>15</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Mbock Bathy</AnswerA>
+        <AnswerB>Jennifer Hermoso</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Mbock Bathy</AnswerA>
+        <AnswerB>Eugenie Le Sommer</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>17</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Ewa Pajor</AnswerA>
+        <AnswerB>MOHAMED SALAH</AnswerB>
+        <AnswerC>Abby Dahlkemper</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Mbock Bathy</AnswerA>
+        <AnswerB>Ewa Pajor</AnswerB>
+        <AnswerC>SADIO MANE</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>19</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Amel Majri</AnswerA>
+        <AnswerB>MOHAMED SALAH</AnswerB>
+        <AnswerC>Debin</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>20</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Ji So-yun</AnswerA>
+        <AnswerB>Ewa Pajor</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Amel Majri</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>21</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Mbock Bathy</AnswerA>
+        <AnswerB>Alexia Putellas</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Ji So-yun</AnswerA>
+        <AnswerB>MOHAMED SALAH</AnswerB>
+        <AnswerC>Paulo Dybala</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Mbock Bathy</AnswerA>
+        <AnswerB>Paulo Dybala</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Jadon Sancho</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>24</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Paulo Dybala</AnswerA>
+        <AnswerB>MOHAMED SALAH</AnswerB>
+        <AnswerC>MOHAMED</AnswerC>
+        <AnswerD>Jordan Henderson</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>25</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>OBAMA</AnswerA>
+        <AnswerB>Bruno Fernandes</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>BILADEN</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>26</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>OBAMA</AnswerA>
+        <AnswerB>Manuel Neuer</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>BILADEN</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>27</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>OBAMA</AnswerA>
+        <AnswerB>Alphonso Davies</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>BILADEN</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>28</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Mbock Bathy</AnswerA>
+        <AnswerB>Ciro</AnswerB>
+        <AnswerC>Ciro Immobile</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>29</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Serge Gnabry</AnswerA>
+        <AnswerB>Erling Haaland</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Trent Alexander-Arnold</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>30</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Mbock Bathy</AnswerA>
+        <AnswerB>Serge Gnabry</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>31</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Mbock Bathy</AnswerA>
+        <AnswerB>Romelu Lukaku</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Serge Gnabry</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>32</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Trent Alexander-Arnold</AnswerA>
+        <AnswerB>MOHAMED SALAH</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>33</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Mbock Bathy</AnswerA>
+        <AnswerB>Trent Alexander-Arnold</AnswerB>
+        <AnswerC>Trent Ale</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>34</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Bathy</AnswerA>
+        <AnswerB>Sergio Ramos</AnswerB>
+        <AnswerC>DebSergio Ramosinha</AnswerC>
+        <AnswerD> KSergio Ramoserr</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>35</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Sergio Ramos</AnswerA>
+        <AnswerB>Thiago Alcantara</AnswerB>
+        <AnswerC>DebThiago Alcantarainha</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>36</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Kimmich</AnswerA>
+        <AnswerB>Sadio Mane</AnswerB>
+        <AnswerC>Joshua Kimmich</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>37</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Thiago Alcantara</AnswerA>
+        <AnswerB>oshua Kimmich</AnswerB>
+        <AnswerC>Sadio Mane</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>38</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Thomas Muller</AnswerA>
+        <AnswerB>MOHAMED SALAH</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD> Karim Benzema</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>39</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Karim Benzema</AnswerA>
+        <AnswerB>MOHAMED SALAH</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>40</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Mbock Bathy</AnswerA>
+        <AnswerB>Virgil van Dijk</AnswerB>
+        <AnswerC>Karim Benzema</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>41</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Virgil van Dijk</AnswerA>
+        <AnswerB>Kylian Mbappe</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>42</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Mbock Bathy</AnswerA>
+        <AnswerB>Cristiano Ronaldo</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>43</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Mbock Bathy</AnswerA>
+        <AnswerB>Neymar</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>44</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Lionel Messi</AnswerA>
+        <AnswerB>MOHAMED SALAH</AnswerB>
+        <AnswerC>Debinha</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>45</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Kevin De Bruyne</AnswerA>
+        <AnswerB>Lionel Messi</AnswerB>
+        <AnswerC>Neymar</AnswerC>
+        <AnswerD>Sam Kerr</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>46</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Mbock Bathy</AnswerA>
+        <AnswerB>Robert Lewandowski</AnswerB>
+        <AnswerC>Lionel Messi</AnswerC>
+        <AnswerD>Debinhar</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>47</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Griedge Bathy</AnswerA>
+        <AnswerB>Beth England</AnswerB>
+        <AnswerC>Dendi</AnswerC>
+        <AnswerD>Levi</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>48</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>SBTC</AnswerA>
+        <AnswerB>Wendie Renard</AnswerB>
+        <AnswerC>Tèo</AnswerC>
+        <AnswerD>Bi</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>49</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Tèo</AnswerA>
+        <AnswerB>Vivianne Miedema</AnswerB>
+        <AnswerC>tuna</AnswerC>
+        <AnswerD>monsieru tuna</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>50</ID>
+        <Question>Cầu thủ này là ai?</Question>
+        <AnswerA>Duong404</AnswerA>
+        <AnswerB>Pernille Harder</AnswerB>
+        <AnswerC>Dendi</AnswerC>
+        <AnswerD>LuonThanhDo</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+</Questionare>
